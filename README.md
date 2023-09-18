@@ -8,7 +8,7 @@
 -->
 
 # Hello GitHub Actions
-
+masayan
 _Create a GitHub Action and use it in a workflow._
 
 </header>
@@ -19,7 +19,7 @@ _Create a GitHub Action and use it in a workflow._
   Define terms and link to docs.github.com.
 -->
 
-## Step 5: Trigger the workflow
+## Step 5: Trigger the workflow でっせ
 
 _You've now got a fully functioning workflow! :smile:_
 
